@@ -1,0 +1,19 @@
+# 基本資料處理
+pandas
+numpy
+
+# 資料視覺化
+matplotlib
+seaborn
+
+# 前處理與模型
+scikit-learn
+
+# 降維用 (視覺化高維資料)
+umap-learn
+
+# 進階 clustering (可選：提升分群效果)
+hdbscan
+
+# 評估指標 (FMI 是 sklearn.metrics 內建，但 scipy 有時也會用到)
+scipy
